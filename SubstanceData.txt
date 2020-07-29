@@ -4,3 +4,6 @@ Welcome to Substance Data.
 
 Substance search can be done either molecule , acx_id 
 or can be substance Name
+
+
+Thank you
